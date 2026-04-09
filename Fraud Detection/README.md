@@ -30,6 +30,12 @@ The app predicts whether a transaction is likely:
 
 Then click **Predict**.
 
+## Dataset Source
+
+Kaggle dataset used in this project:
+
+https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
+
 ---
 
 ## Run Locally (Step-by-Step)
