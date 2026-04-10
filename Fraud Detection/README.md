@@ -43,7 +43,7 @@ https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/gohil-gaurav/ml-projects-portfolio.git
 cd "Fraud Detection"
 ```
 

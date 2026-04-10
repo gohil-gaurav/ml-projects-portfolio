@@ -66,7 +66,7 @@ Saved inference artifacts:
 ### 1) Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/gohil-gaurav/ml-projects-portfolio.git
 cd "Customer Churn Prediction"
 ```
 
